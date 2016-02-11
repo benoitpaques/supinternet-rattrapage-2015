@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DTGithub</string>
+    <string name="app_name">Supinternet Rattrapage</string>
     <string name="activity_main_search_hint">Type a name here</string>
     <string name="activity_main_search_empty">Please enter a name</string>
     <string name="activity_main_search_network_error">Unable to find the repositories due to a network error</string>
